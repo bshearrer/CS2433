@@ -1,6 +1,4 @@
-/*Tim Dodge
-CS2433
-PA10
+/*
 Write a C++ class student. The class should have fields to include last
 name, first name, student ID, major and gpa. The class needs a constructor
 to set all fields to blanks. The class should have methods to change the
